@@ -1,4 +1,3 @@
-# ✅ فایل اول: web.py (برای Railway)
 from flask import Flask
 
 app = Flask(__name__)
